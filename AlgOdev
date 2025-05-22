@@ -89,9 +89,9 @@ int main() {
     int secim;
 
     do {
-        printf("\n--- Urun Ýsleme Sistemi ---\n");
+        printf("\n--- Urun Ä°sleme Sistemi ---\n");
         printf("1. Urun Ekleme\n");
-        printf("2. Urunleri Göster\n");
+        printf("2. Urunleri GÃ¶ster\n");
         printf("3. Urun Guncelleme\n");
         printf("4. Urun Silme\n");
         printf("0. Cikis\n");
